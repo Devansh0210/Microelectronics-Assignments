@@ -1,0 +1,30 @@
+* Set-2/Question-2
+
+* Name - Devansh Tanna
+* ID - 2019A3PS0158P
+* Tut Section - 5
+
+* R1 -> 55k
+* R2 -> 45k
+* R3 -> 5.6k
+* R4 -> 50k
+* k -> 14
+
+* Defining given circuit
+
+R1 in a 1
+R2 a 0 2
+R3 a out 1
+R4 in out 4
+
+* Finding Z11 and Z21 :
+V1 in 0 DC 1V
+
+* Finding Z12 and Z22:
+* V2 out 0 DC 1V
+
+
+* Simulate
+.OP
+
+.END
